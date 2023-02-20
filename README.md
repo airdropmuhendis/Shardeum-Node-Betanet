@@ -1,7 +1,5 @@
 <h1 align="center">Shardeum Betanet Node Kurulumu
 
-## Bir önceki kayıt adımını yapmadıysanız önce ordaki işlemleri yapın hala yapabilirsiniz daha sonra burdan devam edin. Video [Linki](https://youtu.be/jf5dvWblYek) 
-
 ## Shardeum için sunucuyu nerden nasıl alacağınızı bilmiyorsanız node eğitim serimizi izleyebilirsiniz. [Node Eğitim Serisi](https://www.youtube.com/playlist?list=PLKxGUfdcj7MVXls2OvTpwx6CnpVJN685w)
 
 
