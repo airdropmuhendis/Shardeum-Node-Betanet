@@ -45,7 +45,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 ```
 curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh && chmod +x installer.sh && ./installer.sh
 ```
-## Tarayıcınıza ip adresi kısmını değiştirerek aratıyoruz ve güvenli değil ilerle diyip ilerliyoruz.
+## Tarayıcınıza ip adresi kısmını değiştirerek aratıyoruz ve güvenli değil ilerle diyip ilerliyoruz ve satake yapıyoruz.
 ```
 https://ıpadresi:8080
 ```
@@ -63,4 +63,32 @@ pm2 list
 ## Faucet
 
 [Discord](https://discord.gg/shardeum)
+
+## 1.1 Güncellemesi
+
+## Tarayıcınıza ip adresi kısmını değiştirerek aratıyoruz ve güvenli değil ilerle diyip ilerliyoruz. ve Stop node dedikten sonra remove stake diyip stake yaptığımız tokenleri geri çekiyoruz ve aşağıdaki adımları tekrar uyguluyoruz
+```
+https://ıpadresi:8080
+```
+gelen sorulara y diyip diğer işlemlerde sadece enter tuşuna basıyoruz.
+```
+curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh && chmod +x installer.sh && ./installer.sh
+```
+diğer işlemler aynı olacak
+
+## Tarayıcınıza ip adresi kısmını değiştirerek aratıyoruz ve güvenli değil ilerle diyip ilerliyoruz ve satake yapıyoruz.
+```
+https://ıpadresi:8080
+```
+
+```
+cd .shardeum
+./shell.sh
+operator-cli gui start
+```
+Görüntüleme için 
+```
+pm2 list
+```
+
 
