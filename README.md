@@ -70,11 +70,11 @@ pm2 list
 ```
 https://ıpadresi:8080
 ```
-gelen sorulara y diyip diğer işlemlerde sadece enter tuşuna basıyoruz.
+## Gelen sorulara y diyip şifre adımında şifremizi oluşturduktan sonra diğer işlemlerde sadece enter tuşuna basıyoruz.
 ```
 curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh && chmod +x installer.sh && ./installer.sh
 ```
-diğer işlemler aynı olacak
+## Diğer işlemler aynı olacak burdaki kısmı tekrar videodan devam edebilirsiniz.
 
 ## Tarayıcınıza ip adresi kısmını değiştirerek aratıyoruz ve güvenli değil ilerle diyip ilerliyoruz ve cüzdanımızı bağlayıp tekardan stake  satake yapıyoruz ve satart node diyoruz.
 ```
