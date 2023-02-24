@@ -64,7 +64,7 @@ pm2 list
 
 [Discord](https://discord.gg/shardeum)
 
-## 1.1 Güncellemesi
+# 1.1 Güncellemesi
 
 ## Tarayıcınıza ip adresi kısmını değiştirerek aratıyoruz ve güvenli değil ilerle diyip ilerliyoruz. ve Stop node dedikten sonra remove stake diyip stake yaptığımız tokenleri geri çekiyoruz ve aşağıdaki adımları tekrar uyguluyoruz
 ```
@@ -76,7 +76,7 @@ curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh 
 ```
 diğer işlemler aynı olacak
 
-## Tarayıcınıza ip adresi kısmını değiştirerek aratıyoruz ve güvenli değil ilerle diyip ilerliyoruz ve satake yapıyoruz.
+## Tarayıcınıza ip adresi kısmını değiştirerek aratıyoruz ve güvenli değil ilerle diyip ilerliyoruz ve cüzdanımızı bağlayıp tekardan stake  satake yapıyoruz ve satart node diyoruz.
 ```
 https://ıpadresi:8080
 ```
